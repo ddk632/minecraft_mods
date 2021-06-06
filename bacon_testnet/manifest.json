@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "f94f4628-fb34-4281-933a-671f063ae886",
+        "description": "Functions for giving a player fully enchanted armour, tools, and weapons.",
+        "name": "OP Tools and Armour",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla behavior pack",
+            "type": "data",
+            "uuid": "6f6cf65a-6d18-4983-bc62-a918e928985e",
+            "version": [0, 0, 1]
+        }
+    ]
+}
