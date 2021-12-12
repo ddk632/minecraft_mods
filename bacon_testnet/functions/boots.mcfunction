@@ -6,3 +6,4 @@ enchant @p thorns 3
 enchant @p depth_strider 3
 enchant @p feather_falling 4
 enchant @p soul_speed 3
+enchant @p frost_walker 2
